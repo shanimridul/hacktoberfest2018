@@ -103,7 +103,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Shiv Soni | IV | CSE | |
 | [Rajat](https://github.com/rjkumar22) | IV | SE |[@rjkumar22](https://hacktoberfest.digitalocean.com/stats/rjkumar22) |
 | Harshit Choudhary | II | IT | |
-| gursimran | II | IT | |
+| gursimran | II | IT | ||
 | Sparsh Singhal | III | CSE | |
 | Siffrein sigy | II | IT | |
 | Akshay Sharma | III | CSE | |
@@ -122,4 +122,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 |[Harsh Vijay](https://github.com/hvijaycse)|II|CSE|[@hvijaycse](https://hacktoberfest.digitalocean.com/stats/hvijaycse)|
 Keshav Asopa | 3 | CSE | [@Keshav-Asopa](https://hacktoberfest.digitalocean.com/stats/Keshav-Asopa)|
 | Sarsiz | IV | CSE | [@sarsiz](https://hacktoberfest.digitalocean.com/stats/sarsiz)|
-
+| mridul upadhyay | II | IT | [@shanimridul](https://hacktoberfest.digitalocean.com/stats/shanimridul)|
