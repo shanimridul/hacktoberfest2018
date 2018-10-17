@@ -79,7 +79,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Sagar Parre](https://github.com/sud0m0nk) | III | IT | [@sud0m0nk](https://hacktoberfest.digitalocean.com/stats/sud0m0nk) | |
 | Abhishek Mohata | III | CSE | |
 | [Akshay Gagrani](https://github.com/Akshaygagrani) | III | CSE | |
-| [Manank Patni](https://github.com/Man-Jain) | II | IT | [@Man-Jain](https://hacktoberfest.digitalocean.com/stats/Man-Jain) |
+| [](https://github.com/Man-Jain) | II | IT | [@Man-Jain](https://hacktoberfest.digitalocean.com/stats/Man-Jain) |
 | Kanika Agrawal | II | IT | |
 | [Saket Kumar Sankrit](https://github.com/098saket) | III | IT | [@098saket](https://hacktoberfest.digitalocean.com/stats/098saket) | |
 | [Shubham Shrivastava](https://github.com/shrishubham) | II | IT | [@shrishubham](https://hacktoberfest.digitalocean.com/stats/shrishubham) | |
@@ -93,7 +93,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Mansi Breja](https://github.com/MansiBreja) | III | CSE | [@MansiBreja](https://hacktoberfest.digitalocean.com/stats/MansiBreja) |
 | [Prince Jhabak](https://github.com/Princejhabak/) | III | CSE | [@Princejhabak](https://hacktoberfest.digitalocean.com/stats/Princejhabak) |
 | Aakash Khaksa | II | IT | |
-| Hardik Mundra | II | IT | |
+| mridul upadhyay |2| IT| [@shanimridul](https://https://hacktoberfest.digitalocean.com/stats/shanimridul)
 | [Shivam Pokhriyal](https://github.com/fs0sp) | II | CSE |[@fs0sp](https://hacktoberfest.digitalocean.com/stats/fs0sp) |
 | [Lakshay Wadhwa](https://github.com/luck-u) | III | CSE | [@luck-u](https://hacktoberfest.digitalocean.com/stats/luck-u)|
 | Ashik Paul | II | CSE | |
