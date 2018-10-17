@@ -123,3 +123,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 Keshav Asopa | 3 | CSE | [@Keshav-Asopa](https://hacktoberfest.digitalocean.com/stats/Keshav-Asopa)|
 | Sarsiz | IV | CSE | [@sarsiz](https://hacktoberfest.digitalocean.com/stats/sarsiz)|
 | mridul upadhyay | 2 |it [@shanimridul](https://hacktoberfest.digitalocean.com/stats/shanimridul)|
+mridul |2| it
